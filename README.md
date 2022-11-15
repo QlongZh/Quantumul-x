@@ -74,13 +74,9 @@
 * [Task.sgmodule](https://raw.githubusercontent.com/Tartarus2014/Surge-Script/master/Task.sgmodule) 定时任务远程配置
 
 
-### 请喝咖啡？谢谢赞赏~
-![感谢赞赏的咖啡哟~](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/zs.png)
-
-
 ## 免责声明：
 
-* w37fhy发布的Script项目中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
+* 本页面发布的Script项目中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
 
 * 间接使用脚本的任何用户，包括但不限于建立VPS或在某些行为违反国家/地区法律或相关法规的情况下进行传播, w37fhy 对于由此引起的任何隐私泄漏或其他后果概不负责.
 
